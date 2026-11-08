@@ -1,0 +1,306 @@
+[
+  {
+    "timestamp": "2026-11-07T08:55:00Z",
+    "event_id": 4624,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T08:57:00Z",
+    "event_id": 4625,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:00:00Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:00:36Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:01:12Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:01:48Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:02:24Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:03:00Z",
+    "event_id": 4625,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:03:24Z",
+    "event_id": 4624,
+    "username": "Administrator",
+    "source_ip": "192.168.244.20",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:06:00Z",
+    "event_id": 4624,
+    "username": "admin_ops",
+    "source_ip": "192.168.244.21",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:09:00Z",
+    "event_id": 4625,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "WIN10-01",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:10:12Z",
+    "event_id": 4625,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "WIN10-01",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:11:35Z",
+    "event_id": 4625,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "WIN10-01",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:12:00Z",
+    "event_id": 4625,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:13:00Z",
+    "event_id": 4624,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "WIN10-01",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:16:00Z",
+    "event_id": 4625,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:18:00Z",
+    "event_id": 4624,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "WIN10-01",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:20:00Z",
+    "event_id": 4625,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:24:00Z",
+    "event_id": 4625,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:28:00Z",
+    "event_id": 4625,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:30:00Z",
+    "event_id": 4625,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:35:00Z",
+    "event_id": 4624,
+    "username": "svc_backup",
+    "source_ip": "192.168.244.50",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:40:00Z",
+    "event_id": 4624,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:42:00Z",
+    "event_id": 4634,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:46:00Z",
+    "event_id": 4624,
+    "username": "manager",
+    "source_ip": "192.168.244.15",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T09:58:00Z",
+    "event_id": 4672,
+    "username": "Administrator",
+    "source_ip": "-",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:01:00Z",
+    "event_id": 4624,
+    "username": "SYSTEM",
+    "source_ip": "-",
+    "computer": "WIN10-01",
+    "logon_type": 2
+  },
+  {
+    "timestamp": "2026-11-07T10:05:00Z",
+    "event_id": 4625,
+    "username": "guest",
+    "source_ip": "192.168.244.30",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:05:50Z",
+    "event_id": 4625,
+    "username": "guest",
+    "source_ip": "192.168.244.30",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:06:40Z",
+    "event_id": 4625,
+    "username": "guest",
+    "source_ip": "192.168.244.30",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:07:30Z",
+    "event_id": 4625,
+    "username": "guest",
+    "source_ip": "192.168.244.30",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:08:20Z",
+    "event_id": 4625,
+    "username": "guest",
+    "source_ip": "192.168.244.30",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:13:00Z",
+    "event_id": 4624,
+    "username": "admin_ops",
+    "source_ip": "192.168.244.21",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:16:00Z",
+    "event_id": 4625,
+    "username": "petrov",
+    "source_ip": "192.168.244.12",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:20:00Z",
+    "event_id": 4624,
+    "username": "localuser",
+    "source_ip": "-",
+    "computer": "WIN10-01",
+    "logon_type": 2
+  },
+  {
+    "timestamp": "2026-11-07T10:21:00Z",
+    "event_id": 4624,
+    "username": "manager",
+    "source_ip": "192.168.244.15",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:32:00Z",
+    "event_id": 4625,
+    "username": "manager",
+    "source_ip": "192.168.244.15",
+    "computer": "DC1",
+    "logon_type": 3
+  },
+  {
+    "timestamp": "2026-11-07T10:33:00Z",
+    "event_id": 4768,
+    "username": "ivanov",
+    "source_ip": "192.168.244.11",
+    "computer": "DC1",
+    "logon_type": 3
+  }
+]
